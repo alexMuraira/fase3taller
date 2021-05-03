@@ -23,8 +23,8 @@ El problema es que se pierde tiempo en pasar la información al reporte y el ser
 # configuración
 •	Instalamos la versión más actual de java y xampp 
 •	configuración del ambiente JAVA
-•	abrir myphp usando la cuenta dada
-•	configurar con el nombre de la base de daros 
+•	abrir myphp usando la cuenta dada(la cuenta que te dan por default)
+•	configurar con el nombre de la base de datos 
 # Alcance del proyecto
 El proyecto será usado por una persona en una sola consola para checar y anotar datos para tener una guía de ventas anotadas para estar listo en cualquier movimiento 
 Incluye una calculadora simple para hacer que se pudiera tomar cualquier problema en la suma o restas de objetos extras
